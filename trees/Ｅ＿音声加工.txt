@@ -1,0 +1,20 @@
+﻿Ｅ＿音声加工														
+string Node Prefix	string 種類	int freq	float qFactor	float reverbSignalRatio	int preDelay	float ratio	int tapL.values	int tapR.values	float inputRatio	float feedbackRatio	int delayTime	float a	float delaySignalRatio	int returnTime
+WorkSpace.０	ローパスフィルタ	4000	1											
+リバーブテスト.０	リバーブ			0.400000005960464	70									
+リバーブテスト.０.reverb.０	ゲイン					0.501187026500702								
+リバーブテスト.０.reverb.１	マルチコムフィルタ						27	23	0.600000023841858	0.889999985694885				
+							37	37						
+							41	41						
+							50	53						
+リバーブテスト.０.reverb.２	オールパスフィルタ										11	0.400000005960464		
+リバーブテスト.０.reverb.３	オールパスフィルタ										17	0.699999988079071		
+リバーブテスト.０.reverb.４	ローパスフィルタ	6000	0.5											
+リバーブテスト.０.earlyReflection.０	マルチタップディレイ						50	51	0.5				0.699999988079071	
+							67	67						
+							74	73						
+							81	83						
+リバーブテスト.０.earlyReflection.１	ゲイン					0.0630960017442703								
+リバーブテスト.０.earlyReflection.２	ローパスフィルタ	4000	0.5											
+リバーブテスト.１	リミット					1								10
+電話.０	ローパスフィルタ	4000	1											
