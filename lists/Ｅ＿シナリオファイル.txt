@@ -1,4 +1,0 @@
-﻿Ｅ＿シナリオファイル
-string stringValue
-../Source/ヨイドレ
-../Source/ダイス
